@@ -1,0 +1,12 @@
+*{box-sizing: border-box; margin: 0;padding: 0;}
+body{ font: 1rem/1.5 'Segoe UI'; }
+main { width: 95vw; margin: 0 auto; text-align: center; background: #eee; }
+header{ margin-top: 1rem;}
+h1 ,h3 ,p{margin: 1rem 0;}
+figure{ background: #fff; width:95%; margin:0 auto;}
+figcaption{ padding: 1rem 0; font-size: 1rem;}
+h2 { margin: 2rem 0;}
+ul {text-align: left; width: 40%; margin: 0 auto;}
+span::before{ content: '- '; }
+li + li {margin-top: 1rem;}
+blockquote {text-align: left; margin: 0 auto; width: 45%; margin-top: 1rem;}
